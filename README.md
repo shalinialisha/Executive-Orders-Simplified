@@ -1,4 +1,4 @@
-# Presidential Actions And You
+# Executive Orders Simplified
 ## Tool to help track and understand changes made through Executive Orders during this administration
 
 This application continuously monitors the White House website for new presidential actions and provides an interactive chatbot interface to help users understand these executive orders.
@@ -47,3 +47,5 @@ The application features a user-friendly chat interface with plenty of uses. For
 - Ask for explanations of complex policy language
 - Request summaries of recent actions
 - Ask about potential impacts
+
+### Images 
