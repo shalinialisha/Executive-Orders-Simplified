@@ -46,7 +46,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-gray-50 p-6 flex flex-col items-center justify-start">
       <div className="w-full max-w-3xl text-center mb-10">
-        <h1 className="text-5xl font-bold text-gray-900 mb-2">Presidential Actions And You</h1>
+        <h1 className="text-5xl font-bold text-gray-900 mb-2">Executive Orders Simplified</h1>
         <p className="text-gray-600">
           Track and understand Executive Orders and Actions from the current administration. Answer your questions about them 
           and get the latest updates.
