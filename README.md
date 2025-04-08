@@ -55,7 +55,7 @@ Comparing EOS and ChatGPT when asked "What's the latest Executive Order?"
 -ChatGPT gave outdated knowledge
 
 ### EOS 
-<img width="1351" alt="Screenshot 2025-04-07 at 1 22 31 AM" src="https://github.com/user-attachments/assets/ee402cec-9245-4585-8f25-6146a04bc83d" />
+<img width="1552" alt="Screenshot 2025-04-07 at 8 33 09 PM" src="https://github.com/user-attachments/assets/27bac96a-6f93-48bd-89ba-e1fdada0b10c" />
 
 ### ChatGPT
 <img width="1351" alt="Screenshot 2025-04-07 at 1 14 06 AM" src="https://github.com/user-attachments/assets/1e3a52be-9864-44b3-b334-93b5739c0850" />
