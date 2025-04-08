@@ -1,4 +1,4 @@
-# Executive Orders Simplified
+# Executive Orders Simplified (EOS)
 ## Tool to help track and understand changes made through Executive Orders during this administration
 
 This application continuously monitors the White House website for new presidential actions and provides an interactive chatbot interface to help users understand these executive orders.
@@ -48,4 +48,16 @@ The application features a user-friendly chat interface with plenty of uses. For
 - Request summaries of recent actions
 - Ask about potential impacts
 
-### Images 
+## Images 
+Comparing EOS and ChatGPT when asked "What's the latest Executive Order?"
+
+-EOS gave accurate, current information
+-ChatGPT gave outdated knowledge
+
+### EOS 
+<img width="1351" alt="Screenshot 2025-04-07 at 1 22 31 AM" src="https://github.com/user-attachments/assets/ee402cec-9245-4585-8f25-6146a04bc83d" />
+
+### ChatGPT
+<img width="1351" alt="Screenshot 2025-04-07 at 1 14 06 AM" src="https://github.com/user-attachments/assets/1e3a52be-9864-44b3-b334-93b5739c0850" />
+
+
