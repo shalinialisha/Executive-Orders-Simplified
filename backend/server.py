@@ -323,6 +323,7 @@ scheduler.add_job(scrape_presidential_actions, 'interval', hours=1)
 scheduler.start()
 
 # Run an initial scrape on startup if needed
+#not working 
 with app.app_context():
     if NewsArticle.query.count() == 0:
         scrape_presidential_actions()
@@ -330,3 +331,23 @@ with app.app_context():
 # === Launch Flask ===
 if __name__ == "__main__":
     app.run(debug=True, port=5001)
+
+
+
+## 🧠 CrewAI summarization agent
+
+# def build_panel_summary_agent():
+
+#     return Agent(
+
+#         role="Translingual Graphic Novel Analyst",
+
+#         goal="Create classroom-ready summaries of visual narratives to support literacy and multilingual engagement",
+
+#         backstory="You are an educational visual analyst who specializes in interpreting graphic novels for classroom use. Your work supports teachers working with translingual and emergent bilingual students. You describe visual panels clearly, identify themes, and avoid inserting your own interpretation beyond what’s shown.",
+
+#         llm="gpt-4o-mini",
+
+#         verbose=True,
+
+#         allow_delegation=False
